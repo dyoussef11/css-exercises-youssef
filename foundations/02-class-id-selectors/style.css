@@ -1,0 +1,16 @@
+.p{
+    background-color: lightpink;
+    font-family: Verdana;
+}
+.p.h1{
+    font-size: 24px;
+}
+.p1{
+    color:blue;
+    font-size: 36px;
+}
+.p2{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
