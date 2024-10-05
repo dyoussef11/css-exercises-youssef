@@ -3,8 +3,11 @@
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
+  display: flex;
+  align-items: center; /*Use "align-items" para qual coluna começa os itens  */ 
+  justify-content: center; /*Use "justify-content" para qual coluna começa os itens   */
+  
 }
-
 .box {
   background: palevioletred;
   font-weight: bold;
@@ -13,3 +16,4 @@
   width: 80px;
   height: 80px;
 }
+
